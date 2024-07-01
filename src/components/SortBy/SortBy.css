@@ -1,0 +1,10 @@
+.ProductCategoriesBtnGroup{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+
+}
+.SortByForm{
+background-color: #ffffffcb !important;
+width:100% !important;
+}

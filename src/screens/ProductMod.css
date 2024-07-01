@@ -1,0 +1,33 @@
+.ProductIcon {
+  color: #ffffff;
+  background-color: #ee2c3c;
+  padding: 4px;
+  border-radius: 100%;
+}
+.ProductModFullForm {
+  background-color: #fff !important;
+  padding: 20px !important;
+  margin-top: 5px !important;
+  min-width: 500px !important;
+  border-radius: 15px !important;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+.Input {
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
+.CreatableSelect > * {
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+  background-color: #fff !important;
+}
+Select > * {
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+  background-color: #fff !important;
+}
+#react-select-3-listbox {
+  background-color: #fff !important;
+  background: #fff !important;
+  z-index: 1 !important;
+}

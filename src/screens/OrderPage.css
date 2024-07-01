@@ -1,0 +1,35 @@
+.OrderPageMain {
+  background-color: #fff;
+  margin-top: 2%;
+  padding: 2%;
+  border-radius: 15px;
+}
+.StepperBar {
+  margin-bottom: 3%;
+  background-color: #fff;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  padding: 1%;
+  border-radius: 20px;
+}
+.AddressForm {
+  /* background-color: #df1c1c; */
+  max-width: 600px;
+  /* box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1); */
+  padding: 1%;
+}
+.Input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 0px !important;
+}
+.SubmitBtn {
+  margin-top: 10px !important;
+  border-radius: 30px !important;
+  min-height: 40px !important;
+  background-color: #3f51b5 !important;
+}
+.AddressConfirm {
+  border-left: 5px solid #f1f5ff;
+  margin-left: 2px;
+  scroll-margin-right: 2px;
+}

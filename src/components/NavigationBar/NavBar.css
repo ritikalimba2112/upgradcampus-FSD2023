@@ -1,0 +1,43 @@
+/* REd #ee2c3c */
+.NavBarContainer {
+  background-color: #3f51b5 !important;
+}
+.NavBar {
+  padding-left: 0%;
+  padding-right: 0%;
+  background-color: #3f51b5 !important;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.link:hover {
+  color: #ee2c3c;
+  text-decoration: none;
+}
+.button {
+  background-color: #ee2c3c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+button {
+  background-color: #ee2c3c;
+}
+button:hover {
+  background-color: #fff !important;
+  color: #ee2c3c !important;
+}
+.LogoutButton {
+  background-color: #ee2c3c !important;
+  color: #fff !important;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}

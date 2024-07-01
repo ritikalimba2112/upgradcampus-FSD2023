@@ -1,0 +1,14 @@
+.ProductCard{
+   padding:8px;
+   border-radius:10px !important;
+   background-color: #fff;
+   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1) !important;
+   min-height:400px;
+}
+.ProductCard__image{
+   border-radius:20px !important;
+   height:200px;
+}
+.BuyButton{
+   border-radius: 15px !important;
+}
